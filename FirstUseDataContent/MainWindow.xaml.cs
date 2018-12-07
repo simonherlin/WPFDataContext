@@ -24,14 +24,5 @@ namespace FirstUseDataContent
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            var c = (this.DataContext as Client);
-            c.Age = 0;
-            c.LastName = "";
-            c.FirstName = "";
-            c.Sex = "";
-        }
     }
 }
