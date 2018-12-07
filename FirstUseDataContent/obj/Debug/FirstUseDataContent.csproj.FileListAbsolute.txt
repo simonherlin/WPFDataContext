@@ -1,0 +1,16 @@
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.csprojResolveAssemblyReference.cache
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\App.g.cs
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent_MarkupCompile.cache
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\bin\Debug\FirstUseDataContent.exe.config
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\bin\Debug\FirstUseDataContent.exe
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\bin\Debug\FirstUseDataContent.pdb
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\MainWindow.g.cs
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent_MarkupCompile.lref
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\MainWindow.baml
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.g.resources
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.Properties.Resources.resources
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.csproj.GenerateResource.Cache
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.csproj.CoreCompileInputs.cache
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.exe
+C:\Users\sherlin\source\repos\FirstUseDataContent\FirstUseDataContent\obj\Debug\FirstUseDataContent.pdb
